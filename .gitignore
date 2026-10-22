@@ -1,0 +1,20 @@
+
+# Vivado generated output
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.pb
+*.rpt
+*.dcp
+
+# Generated project directories
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/sim_1/
